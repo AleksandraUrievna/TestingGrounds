@@ -18,3 +18,5 @@
 4)Также была проведена работа с перемещением кода стрельбы в коде С++.
  
 ![Screenshot_4](https://user-images.githubusercontent.com/65093579/85333135-bc6b2080-b4e1-11ea-83aa-5713e855c91e.png)
+
+5)
